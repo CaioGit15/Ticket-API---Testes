@@ -1,0 +1,7 @@
+/workspaces/Ticket-API---Testes/src/test/java/com/example/ticktetapi/TicktetApiApplicationTests.java
+/workspaces/Ticket-API---Testes/src/test/java/com/example/ticktetapi/controller/ClienteControllerTest.java
+/workspaces/Ticket-API---Testes/src/test/java/com/example/ticktetapi/controller/EventoControllerTest.java
+/workspaces/Ticket-API---Testes/src/test/java/com/example/ticktetapi/controller/IngressoControllerTest.java
+/workspaces/Ticket-API---Testes/src/test/java/com/example/ticktetapi/service/ClienteServiceTest.java
+/workspaces/Ticket-API---Testes/src/test/java/com/example/ticktetapi/service/EventoServiceTest.java
+/workspaces/Ticket-API---Testes/src/test/java/com/example/ticktetapi/service/IngressoServiceTest.java

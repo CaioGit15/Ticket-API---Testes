@@ -1,0 +1,7 @@
+com/example/ticktetapi/service/EventoServiceTest.class
+com/example/ticktetapi/controller/IngressoControllerTest.class
+com/example/ticktetapi/service/ClienteServiceTest.class
+com/example/ticktetapi/TicktetApiApplicationTests.class
+com/example/ticktetapi/controller/EventoControllerTest.class
+com/example/ticktetapi/service/IngressoServiceTest.class
+com/example/ticktetapi/controller/ClienteControllerTest.class
